@@ -15,15 +15,15 @@ And here are the elements used to build the website:
 ->Organized content clearly, separating topics for better readability.
 ->Background styling and padding used to make it visually neat and accessible.
 
-4. Buttons (<a> tags with Bootstrap classes)
+5. Buttons (<a> tags with Bootstrap classes)
 ->Buttons like GitHub, LinkedIn, and Send Email use Bootstrap classes like btn btn-primary for a modern look.
 ->These are interactive and direct users to external links.
 
-5. Footer (<footer>)
+6. Footer (<footer>)
 ->Appears at the bottom of the page with copyright.
 ->Gives a finished, professional look to your portfolio.
 
-6. CSS Styling
+7. CSS Styling
 ->Sets background image using background-image and controls layout with flex, margin, padding, border-radius, and box-shadow.
 ->Font styling (like font-weight: bold;) is used to emphasize titles and labels.
 
